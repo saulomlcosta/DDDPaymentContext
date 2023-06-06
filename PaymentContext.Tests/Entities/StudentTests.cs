@@ -8,10 +8,13 @@ namespace PaymentContext.Tests.Entities
     public class StudentTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AdicionarAssinatura()
         {
             // var name = new Name("Saulo", "Costa");
-            // var student = new Student(name);
+            // foreach (var not in name.Notifications)
+            // {
+            //     Console.WriteLine(not.Message);
+            // }
         }
     }
 }
